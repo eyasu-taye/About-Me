@@ -1,3 +1,3 @@
 ## Hi I am eyasu-taye,
-### I am working as system admistrator and software developer sepecialized in CI/CD and managing hosting and web applicatio software.
-### I am working now in ministry of innovation and technology national data center department.
+### I work as a system administrator and software developer, specializing in CI/CD, hosting, and managing web application software
+### I am currently working in the National Data Center department at the Ministry of Innovation and Technology, where I implement and manage core data center technologies. I also contribute to developing software applications for data center management by analyzing business workflows and resolving issues within the data center.
