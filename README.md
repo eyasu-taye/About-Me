@@ -48,7 +48,7 @@ _Role:_ Developer
 
 **B.Sc. Degree in Computer Science**  
 _Addis Ababa University_  
-_Oct. 1, 2013 - July 1, 2017_
+
 
 ### Skills
 
