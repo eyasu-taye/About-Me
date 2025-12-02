@@ -1,5 +1,5 @@
 # Eyasu Taye
-## System Administrator and Software Developer
+## System Engineer and Software Developer
 
 ## System Administrator and Software Developer
 
@@ -9,7 +9,7 @@
 _Ministry of Innovation and Technology_  
 _Jan. 1, 2023 - Sept. 4, 2024_
 
-- Specialized in installing, configuring, and managing enterprise IT systems such as VMware vSphere, vRealize, VMware Aria Operations, Huawei FusionCompute, and Huawei FusionSphere.
+- Specialized configuring, and managing enterprise IT systems such as VMware vSphere, vRealize, VMware Aria Operations, Huawei FusionCompute, and Huawei FusionSphere.
 
 **Computing and Analytics Assistant Researcher**  
 _Technology and Innovation Institute_  
