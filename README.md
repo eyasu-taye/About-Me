@@ -1,9 +1,10 @@
 # Eyasu Taye
 ## System Engineer and Software Developer
 
-## System Administrator and Software Developer
-
 ### Professional Experience
+
+**Charging and Mediation system Engineer**  
+_Safaricom Ethipia Telecommunication_  
 
 **National Data Center System Administrator**  
 _Ministry of Innovation and Technology_  
