@@ -3,7 +3,7 @@
 
 ### Professional Experience
 
-**Charging and Mediation system Engineer**  
+**Charging and Mediation System Engineer**  
 _Safaricom Ethipia Telecommunication_  
 
 **National Data Center System Administrator**  
