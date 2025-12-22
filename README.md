@@ -1,5 +1,3 @@
-# Eyasu Taye
-## System Engineer and Software Developer
 
 ### Professional Experience 
 
